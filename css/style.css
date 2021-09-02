@@ -171,6 +171,7 @@ button {
 }
 .menu-list .menu-items .menu-card .cardHead img {
   width: 100%;
+  height: 345px;
 }
 .menu-list .menu-items .menu-card .cardBody {
   background-color: #0E1317;
@@ -354,6 +355,9 @@ button {
   }
   .navbar .menu-list .menu-items .menu-card .cardHead {
     min-height: 200px;
+  }
+  .navbar .menu-list .menu-items .menu-card .cardHead img {
+    height: 120px;
   }
 
   .onas {
